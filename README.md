@@ -1,6 +1,6 @@
 # Simon Game
 
-<a href="https://simon-game-38ebzzl7k.vercel.app">Live</a>
+<a href="https://simon-game.burakcag.vercel.app/">Live</a>
 
 <h2> Instructions </h2>
 
